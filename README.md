@@ -28,7 +28,7 @@
 | [Debug Marker](./prompts/Debug%20Marker.md)                   | Add debug statements to the code. Add as many as necessary to make debugging easier           | [Raycast](https://ray.so/prompts/raycast)                                |
 | [Tech Stack Inspector](./prompts/Tech%20Stack%20Inspector.md) | Describe the tech stack used based on a given HTML document                                   | [Raycast](https://ray.so/prompts/raycast)                                |
 
-Git Credits
+## Credits
 
 A big thank to all who contributed to this project!
 
