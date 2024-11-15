@@ -1,4 +1,4 @@
-# Fix Spelling and Grammar
+# Grammarly
 
 Act as a spelling corrector and improver. (replyWithRewrittenText)
 
