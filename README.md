@@ -15,9 +15,12 @@
 
 ## Prompts
 
-|                   Prompt                    | Description                                  | Author                                 |
-| :-----------------------------------------: | -------------------------------------------- | -------------------------------------- |
-| [SQL Sorcerer](./prompts/SQL%20Sorcerer.md) | Transform everyday language into SQL queries | [Tom](https://github.com/monotykamary) |
+|                     Prompt                      | Description                                  | From                                   |
+| :---------------------------------------------: | -------------------------------------------- | -------------------------------------- |
+|   [SQL Sorcerer](./prompts/SQL%20Sorcerer.md)   | Transform everyday language into SQL queries | [Tom](https://github.com/monotykamary) |
+| [Code Explainer](./prompts/Code%20Explainer.md) | Explain Code Step by Step                    | [Thanh](https://github.com/zlatanpham) |
+|    [Bug Fighter](./prompts/Bug%20Fighter.md)    | Find Bug in the Code                         | [Thanh](https://github.com/zlatanpham) |
+|       [Grammarly](./prompts/Grammarly.md)       | Fix Spelling and Grammar                     | [Thanh](https://github.com/zlatanpham) |
 
 ## Credits
 
