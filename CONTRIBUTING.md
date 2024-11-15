@@ -38,6 +38,6 @@ If you are adding a new prompt to this repository, please follow these steps in 
 - [ ] The `README.md` has been updated:
   - [ ] Prompt title linked to the new prompt file.
   - [ ] Short description added.
-  - [ ] Your name linked to your GitHub profile.
+  - [ ] The original source or your name linked to your GitHub profile, if you are the creator.
 
 Please make sure all checklist items are completed before submitting your pull request. Your adherence to these guidelines will help maintain the quality and consistency of this repository.
